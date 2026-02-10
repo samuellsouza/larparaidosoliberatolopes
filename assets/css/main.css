@@ -100,6 +100,10 @@ h6 {
   border-radius: 16px;
 }
 
+.img-footer {
+  width: 50px;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
